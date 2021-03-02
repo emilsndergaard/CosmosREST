@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosREST.Android", "CosmosREST\CosmosREST.Android\CosmosREST.Android.csproj", "{EF1F766D-E85B-4A6D-91E6-D405D904AEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosREST", "CosmosREST\CosmosREST\CosmosREST.csproj", "{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1F766D-E85B-4A6D-91E6-D405D904AEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1F766D-E85B-4A6D-91E6-D405D904AEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1F766D-E85B-4A6D-91E6-D405D904AEAB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EF1F766D-E85B-4A6D-91E6-D405D904AEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1F766D-E85B-4A6D-91E6-D405D904AEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1F766D-E85B-4A6D-91E6-D405D904AEAB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DAEBAF9-1EAC-43BF-9E1A-D0B9A1AA192D}
+	EndGlobalSection
+EndGlobal

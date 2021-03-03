@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosREST.Android", "CosmosREST\CosmosREST.Android\CosmosREST.Android.csproj", "{EF1F766D-E85B-4A6D-91E6-D405D904AEAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosREST", "CosmosREST\CosmosREST\CosmosREST.csproj", "{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosREST", "CosmosREST\CosmosREST\CosmosREST.csproj", "{C400F92B-8CB3-4C7E-8A99-63B87B1862B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
